@@ -5,7 +5,7 @@ Cette documentation fait suite à l'atelier IA OpenCode animé par Morgan B de l
 
 Pour reproduire l'atelier sur votre ordinateur, il vous faut une clé d'accès à un LLM (un modèle de langage). C'est elle qui permet à l'agent de code d'interroger le modèle. Dans l'enseignement supérieur, vous avez deux possibilités, et vous pouvez utiliser l'une, l'autre ou les deux :
 
-- ILaaS : le service de l'enseignement supérieur et de la recherche, accessible avec votre compte UPF ;
+- ILaaS : le service de l'enseignement supérieur et de la recherche, accessible avec votre compte universitaire ;
 - Albert API : le service d'IA de l'État, géré par la DINUM.
 
 Vous trouverez ci‑dessous les étapes pour obtenir votre clé, installer l'agent de code opencode et le configurer. Le fichier de configuration joint à ce mail (opencode.json) contient déjà les deux services, ainsi que des règles de sécurité.
@@ -19,7 +19,7 @@ opencode peut lire, modifier et supprimer tout ce qui se trouve dans le dossier 
 ## 1. Récupérer votre clé
 Il vous faut au moins une des deux clés :
 
-- ILaaS : demandez votre clé individuelle avec votre compte UPF sur https://www.ilaas.fr/demande-de-cles-ilaas/
+- ILaaS : demandez votre clé individuelle avec votre compte universitaire sur https://www.ilaas.fr/demande-de-cles-ilaas/
 - Albert API : connectez‑vous sur https://albert.playground.etalab.gouv.fr/keys, créez une nouvelle clé et copiez‑la tout de suite dans un endroit sûr.
 
 _Vos clés sont personnelles : ne les partagez pas._
